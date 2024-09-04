@@ -1,0 +1,25 @@
+body {
+  font-family: 'Raleway';
+  line-height: 180%;
+}
+
+th, td {
+  padding: 8px;
+  border: solid 1px #cccccc;
+}
+
+th {
+  color: #aaaaff;
+  font-weight: 400;
+  width: 100px;
+  text-align: right;
+}
+
+td {
+  width: 220px;
+}
+
+a {
+  text-decoration: none;
+  color: #aaffff;
+}
